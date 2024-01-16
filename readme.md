@@ -1,1 +1,3 @@
-# Python exercises
+# Python
+
+## Basics and Intermediate concepts
