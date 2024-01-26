@@ -7,7 +7,6 @@ without using language functions that do it automatically.
 - If we pass "Hello world" it would return "dlrow olleH".
 """
 
-
 def reverse(text):
     text_len = len(text)
     reversed_text = ""
